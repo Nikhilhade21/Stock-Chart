@@ -7,4 +7,4 @@ export default axios.create({
   params: {
     token: TOKEN
   }
-})
+}) 
