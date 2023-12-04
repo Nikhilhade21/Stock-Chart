@@ -29,4 +29,3 @@ export const WatchListContextProvider = (props) => {
     {props.children}
   </WatchListContext.Provider>
 }
-
